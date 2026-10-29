@@ -26,3 +26,14 @@ You take the server offline temporarily so that the machine can recover and retu
 
 ## Short Analysis of the network attacks
 <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70745/Screenshot2026-10-29184111.png" alt="postimage - myimgs.org" /></a>
+
+
+##
+Here are some questions I considered when determining what type of attack occurred: 
+
+1. What do I currently understand about network attacks?
+
+2. Which type of attack would likely result in the symptoms described in the scenario? 
+
+3. Why is the website taking a long time to load and reporting a connection timeout error?
+
