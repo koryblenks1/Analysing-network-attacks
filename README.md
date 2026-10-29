@@ -10,4 +10,13 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.
 
 ## Screenshot Images of Wireshark TCP/HTTP log
-<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70689/Screenshot2026-10-29173515.png" alt="Upload gif - myimgs.org" />Screenshot 1</a>
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70698/Screenshot2026-10-29173535.png" alt="myimgs.org image hosting" />Wireshark TCP/HTTP log 2</a>
+
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70689/Screenshot2026-10-29173515.png" alt="Upload gif - myimgs.org" />Wireshark TCP/HTTP log 1</a>
+
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70701/Screenshot2026-10-29173611.png" alt="Image host - myimgs.org" />Wireshark TCP/HTTP log 3</a>
+
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70707/Screenshot2026-10-29173635.png" alt="image.png" /><br>Wireshark TCP/HTTP log 4</a>
+
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70713/Screenshot2026-10-29173651.png" alt="image" />Wireshark TCP/HTTP log 5</a>
+
