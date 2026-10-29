@@ -18,5 +18,8 @@ You take the server offline temporarily so that the machine can recover and retu
 
 <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70707/Screenshot2026-10-29173635.png" alt="image.png" /><br>Wireshark TCP/HTTP log 4</a>
 
-<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70713/Screenshot2026-10-29173651.png" alt="image" />Wireshark TCP/HTTP log 5</a>
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70713/Screenshot2026-10-29173651.png" alt="image" /></a>
 
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70718/Screenshot2026-10-29173707.png" alt="Post image - myimgs.org" /></a>
+
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70722/Screenshot2026-10-29173802.png" alt="https://myimgs.org" /></a>
