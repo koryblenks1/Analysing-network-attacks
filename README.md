@@ -1,5 +1,6 @@
 # Analysing-network-attacks
 Analysis of a TCP SYN flood attack on a web server, covering attack identification, service disruption, impact on users, and mitigation strategies using firewall rules and network security controls.
+
 ## Scenario
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like. 
 
@@ -28,12 +29,30 @@ You take the server offline temporarily so that the machine can recover and retu
 <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70745/Screenshot2026-10-29184111.png" alt="postimage - myimgs.org" /></a>
 
 
-##
-Here are some questions I considered when determining what type of attack occurred: 
+## Conclusion
+<strong>Here are some questions I considered when determining what type of attack occurred:</strong>
 
-1. What do I currently understand about network attacks?
+<strong>1. What do I currently understand about network attacks?</strong>
 
-2. Which type of attack would likely result in the symptoms described in the scenario? 
+Network attacks are malicious activities that disrupt networks, steal information, or gain unauthorized access to systems.
 
-3. Why is the website taking a long time to load and reporting a connection timeout error?
+<strong>2. Which type of attack would likely result in the symptoms described in the scenario?</strong> 
+
+A TCP SYN flood attack, a type of Denial-of-Service (DoS) attack.
+
+<strong>3. Why is the website taking a long time to load and reporting a connection timeout error?</strong>
+
+The server is overwhelmed by excessive TCP SYN requests, exhausting its resources and preventing legitimate users from connecting.
+
+
+<strong>When writing the report, discuss the network devices and activities that are involved in the interruption. Include the following information in your explanation:</strong>
+
+1. Describe the attack. What are the main symptoms or characteristics of this specific type of attack? 
+
+2. Explain how it affected the organization’s network. How does this specific network attack affect the website and how it functions?
+
+3. Describe the potential consequences of this attack and how it negatively affects the organization. 
+
+4. Suggest potential ways to secure the network so this attack can be prevented in the future.
+
 
