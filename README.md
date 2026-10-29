@@ -23,3 +23,6 @@ You take the server offline temporarily so that the machine can recover and retu
 <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70718/Screenshot2026-10-29173707.png" alt="Post image - myimgs.org" /><p><strong>Wireshark TCP/HTTP log 6</strong></p></a>
 
 <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70722/Screenshot2026-10-29173802.png" alt="https://myimgs.org" /><p><strong>Wireshark TCP/HTTP log 7</strong></p></a>
+
+## Short Analysis of the network attacks
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70745/Screenshot2026-10-29184111.png" alt="postimage - myimgs.org" /></a>
