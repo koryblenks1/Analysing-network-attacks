@@ -26,7 +26,10 @@ You take the server offline temporarily so that the machine can recover and retu
 <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70722/Screenshot2026-10-29173802.png" alt="https://myimgs.org" /><p><strong>Wireshark TCP/HTTP log 7</strong></p></a>
 
 ## Short Analysis of the network attacks
-<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70745/Screenshot2026-10-29184111.png" alt="postimage - myimgs.org" /></a>
+<a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70770/Screenshot2026-10-29191405.png" alt="MYIMGS" /></a>
+
+<br><a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/70771/Screenshot2026-10-29191424.png" alt="https://myimgs.org/" /></a>
+
 
 
 ## Conclusion
@@ -36,16 +39,18 @@ You take the server offline temporarily so that the machine can recover and retu
 
 Network attacks are malicious activities that disrupt networks, steal information, or gain unauthorized access to systems.
 
-<strong>2. Which type of attack would likely result in the symptoms described in the scenario?</strong> 
+
+<br><strong>2. Which type of attack would likely result in the symptoms described in the scenario?</strong> 
 
 A TCP SYN flood attack, a type of Denial-of-Service (DoS) attack.
 
-<strong>3. Why is the website taking a long time to load and reporting a connection timeout error?</strong>
+
+<br><strong>3. Why is the website taking a long time to load and reporting a connection timeout error?</strong>
 
 The server is overwhelmed by excessive TCP SYN requests, exhausting its resources and preventing legitimate users from connecting.
 
 
-<strong>When writing the report, discuss the network devices and activities that are involved in the interruption. Include the following information in your explanation:</strong>
+<br><strong>When writing the report, discuss the network devices and activities that are involved in the interruption. Include the following information in your explanation:</strong>
 
 1. Describe the attack. What are the main symptoms or characteristics of this specific type of attack? 
 
